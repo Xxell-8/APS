@@ -126,6 +126,14 @@
 
 
 
+- 그룹 콘텐츠
+  - `<p>`
+  - `<hr>` (헤드라인)
+  - `<ol>` (순서가 있는 목록), `<ul>` (순서가 없는 목록)
+  - `<div>`
+
+
+
 - 텍스트 관련 요소
   - `<a>`
   - `<b>`(bold) vs `<strong>`
@@ -133,23 +141,28 @@
     - 스크린 리더가 읽을 때 strong을 강조해서 읽는다
   - `<i>` vs `<em>`
     - 기울임체도 마찬가지로 em은 의미를 부여
-  - `<span>`, `<br>`(줄바꿈)
+  - `<span>`, `<br>`(줄바꿈), `<img>`
 
 
 
 
 - table
 
-  - tr(열), td(데이터), th(헤드)
-  - thead, tbody, tfoot
-  - caption
+  - `<tr>`(열), `<td>`(데이터), `<th>`(헤드)
+  - `<thead>`, `<tbody>`, `<tfoot>`
+  - `<caption>`
+  - 셀 병합 속성: `<colspan>`, `<rowspan>`
+  - scope 속성
+  - `<col>`, `<colgroup>`
 
   
 
 - form 
 
   - `<form>`은 서버에서 처리될 데이터를 제공하는 역할
-  - `<form>`의 기본 속성: action, method
+  - `<form>`의 기본 속성
+    - action
+    - method
 
   
 
@@ -159,3 +172,4 @@
   - `<label>`: 서식 입력 요소의 캡션
   - `<input>` 요소의 동작은 type에 따라 달라짐
     - [[참고] input 유형](https://developer.mozilla.org/ko/docs/Web/HTML/Element/Input)
+  - 공통 속성: name, placeholder, required, autofocus
