@@ -2,12 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fe545c1-311f-48e2-9526-e549ae56bd4b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../01_sort.md" beforeDir="false" afterPath="$PROJECT_DIR$/../01_sort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programmers/level2_change124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programmers/level2_triangle_snail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3_10200_구독자전쟁/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3_11387_몬스터사냥/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3_4837_부분집합의_합/solution_bit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programmers/level1_claw_crane.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Programmers/level1_claw_crane.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2_1859_millionaire/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1859_millionaire/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2_1859_millionaire/timeout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2_1959_numbers/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1959_numbers/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2_1983_grades/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1983_grades/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1_2019_double/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1_2019_더블더블/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1_2029_division/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1_2029_몫과나머지/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1_2029_division/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1_2029_몫과나머지/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1_2071_average/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1_2071_평균값_구하기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1_2071_average/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1_2071_평균값_구하기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_11454_Baby_gin_Game/for-in.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_11454_Baby_gin_Game/solution_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_11454_Baby_gin_Game/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_11454_Baby_gin_Game/solution_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1859_millionaire/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1859_백만장자프로젝트/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1859_millionaire/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1859_백만장자프로젝트/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1859_millionaire/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1859_백만장자프로젝트/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1926_game369/solution_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1926_간단한_369게임/solution_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1926_game369/solution_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1926_간단한_369게임/solution_replace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1945_factorization/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1945_간단한_소인수분해/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1945_factorization/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1945_간단한_소인수분해/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1954_snail/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1954_달팽이숫자/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1954_snail/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1954_달팽이숫자/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1959_numbers/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1959_두개의숫자열/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1959_numbers/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1959_두개의숫자열/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1959_numbers/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1959_두개의숫자열/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1966_sort_nums/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1966_숫자를_정렬하자/solution_bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1966_sort_nums/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1966_숫자를_정렬하자/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1979_word_puzzle/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1979_어디에_단어가_들어갈_수_있을까/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1979_word_puzzle/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1979_어디에_단어가_들어갈_수_있을까/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1979_word_puzzle/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1979_어디에_단어가_들어갈_수_있을까/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1983_grades/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1983_조교의_성적_매기기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1983_grades/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1983_조교의_성적_매기기/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_1983_grades/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_1983_조교의_성적_매기기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_2001_fly_killer/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_2001_파리퇴치/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_2001_fly_killer/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_2001_파리퇴치/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_2001_fly_killer/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_2001_파리퇴치/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4834_cards/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4834_숫자카드/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4834_cards/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4834_숫자카드/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4835_prefix_sum/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4835_구간합/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4835_prefix_sum/simple_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4835_구간합/simple_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4835_prefix_sum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4835_구간합/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4836_color/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4836_색칠하기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4836_color/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4836_색칠하기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4839_binary_search/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4839_이진탐색/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_4839_binary_search/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2_4839_이진탐색/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_10200_subscribe/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_10200_구독자전쟁/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_10200_subscribe/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_11387_hunting_monster/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_11387_몬스터사냥/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_11387_hunting_monster/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_11457_gravity/for-in.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_11457_Gravity/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_11457_gravity/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_11457_Gravity/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1206_view/for-in.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1206_View/solution_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1206_view/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1206_View/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1206_view/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1206_View/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1206_view/while_jump.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1206_View/solution_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1208_flatten/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1208_Flatten/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1208_flatten/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1208_Flatten/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1208_flatten/solution_def.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1208_Flatten/solution_def.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1208_flatten/while_no_minmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1208_Flatten/while_no_minmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1209_sum/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1209_Sum/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1209_sum/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1209_Sum/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1209_sum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1209_Sum/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1209_sum/solution_shorten.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1209_Sum/solution_shorten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_1221_GNS/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_1221_GNS/solution_counting_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_3142_unicorns/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_3142_신비한_뿔의_숲/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_3142_unicorns/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_3142_신비한_뿔의_숲/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_4831_electric_bus/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_4831_전기버스/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_4831_electric_bus/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_4831_전기버스/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_4837_subset/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_4837_부분집합의_합/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_4837_subset/solution_bit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_4843_special_sort/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_4843_특별한_정렬/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_4843_special_sort/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_4843_특별한_정렬/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_4843_special_sort/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_4843_특별한_정렬/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_5789_change_box/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_5789_현주의_상자_바꾸기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_5789_change_box/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_5789_현주의_상자_바꾸기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_6485_bus_route/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D3_6485_삼성시의_버스_노선/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_6485_bus_route/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3_6485_삼성시의_버스_노선/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D4_1210_ladder1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4_1210_Ladder1/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D4_1210_ladder1/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4_1210_Ladder1/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D4_1210_ladder1/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4_1210_Ladder1/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D4_1210_ladder1/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,64 +130,48 @@
     <session id="-606209530">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="98" />
-          <entry key="txt" value="13" />
+          <entry key="py" value="215" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="98" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="62" />
-          <entry key="dummy" value="70" />
-          <entry key="py" value="12784" />
-          <entry key="txt" value="93" />
+          <entry key="Python Console" value="144" />
+          <entry key="dummy" value="227" />
+          <entry key="py" value="29880" />
+          <entry key="txt" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="163" />
-          <entry key="Python" value="12846" />
+          <entry key="PLAIN_TEXT" value="373" />
+          <entry key="Python" value="30024" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/D4_1210_ladder1/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D4_1210_ladder1/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,63 +187,63 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5789_change_box/sol1.py" />
-        <option value="$PROJECT_DIR$/1206_view/sol2.py" />
-        <option value="$PROJECT_DIR$/11454_Baby_gin_Game/while.py" />
-        <option value="$PROJECT_DIR$/D3_5789_change_box/solution.py" />
-        <option value="$PROJECT_DIR$/D2_1945_factorization/solution.py" />
-        <option value="$PROJECT_DIR$/D2_4828_min_max/solution.py" />
-        <option value="$PROJECT_DIR$/D3_4831_electric_bus/solution.py" />
-        <option value="$PROJECT_DIR$/D2_4834_cards/solution.py" />
-        <option value="$PROJECT_DIR$/D2_4835_prefix_sum/solution.py" />
-        <option value="$PROJECT_DIR$/D3_4831_electric_bus/counting.py" />
-        <option value="$PROJECT_DIR$/D2_4835_prefix_sum/solution2.py" />
-        <option value="$PROJECT_DIR$/D3_11387_hunting_monster/solution.py" />
-        <option value="$PROJECT_DIR$/D3_6485_bus_route/solution.py" />
-        <option value="$PROJECT_DIR$/D2_1966_sort_nums/solution.py" />
-        <option value="$PROJECT_DIR$/D2_1859_millionaire/new.py" />
-        <option value="$PROJECT_DIR$/D1_2029_division/solution.py" />
-        <option value="$PROJECT_DIR$/D1_2019_double/solution.py" />
-        <option value="$PROJECT_DIR$/D3_1221_GNS/solution.py" />
-        <option value="$PROJECT_DIR$/ing_D3_1221_GNS/solution.py" />
-        <option value="$PROJECT_DIR$/D3_1208_flatten/solution_def.py" />
-        <option value="$PROJECT_DIR$/D3_1208_flatten/while_no_minmax.py" />
-        <option value="$PROJECT_DIR$/D3_3142_unicons/solution.py" />
-        <option value="$PROJECT_DIR$/D3_3142_unicorns/solution.py" />
-        <option value="$PROJECT_DIR$/D3_10200_subscribe/solution.py" />
-        <option value="$PROJECT_DIR$/D3_10993_kingdom/solution.py" />
-        <option value="$PROJECT_DIR$/ing_D3_10200_subscribe/input.txt" />
-        <option value="$PROJECT_DIR$/D2_1954_snail/input.txt" />
-        <option value="$PROJECT_DIR$/practice_List01/input.txt" />
-        <option value="$PROJECT_DIR$/practice_List01/solution.py" />
-        <option value="$PROJECT_DIR$/D3_1209_sum/test.py" />
-        <option value="$PROJECT_DIR$/D3_1209_sum/solution.py" />
-        <option value="$PROJECT_DIR$/D2_1954_snail/solution_str.py" />
-        <option value="$PROJECT_DIR$/D2_4836_color/input.txt" />
-        <option value="$PROJECT_DIR$/D2_4839_binary_search/input.txt" />
-        <option value="$PROJECT_DIR$/D3_4843_special_sort/input.txt" />
-        <option value="$PROJECT_DIR$/D3_4843_special_sort/solution.py" />
-        <option value="$PROJECT_DIR$/D3_4837_subset/input.txt" />
-        <option value="$PROJECT_DIR$/D2_1979_word_puzzle/solution.py" />
+        <option value="$PROJECT_DIR$/ING/D3_1244_prize_money/solution.py" />
+        <option value="$PROJECT_DIR$/D3_1221_GNS/solution_neo.py" />
+        <option value="$PROJECT_DIR$/practice_Str01/solution.py" />
+        <option value="$PROJECT_DIR$/D2_4864_string.py" />
+        <option value="$PROJECT_DIR$/D2_4861_palindrome/test.py" />
+        <option value="$PROJECT_DIR$/D2_4861_palindrome/solution.py" />
+        <option value="$PROJECT_DIR$/D2_4865_str_count/input.txt" />
+        <option value="$PROJECT_DIR$/ING/D2_4864_string/solution.py" />
+        <option value="$PROJECT_DIR$/ING/D2_4861_palindrome/solution2.py" />
+        <option value="$PROJECT_DIR$/ING/D2_4861_palindrome/solution.py" />
+        <option value="$PROJECT_DIR$/D4_3143_typing/input.txt" />
+        <option value="$PROJECT_DIR$/D3_1216_palindrome2/why.py" />
+        <option value="$PROJECT_DIR$/D3_1216_palindrome2/test.py" />
+        <option value="$PROJECT_DIR$/D2_1970_change/input.txt" />
+        <option value="$PROJECT_DIR$/D3_5431_check_subject/input.txt" />
+        <option value="$PROJECT_DIR$/ING/D3_11315_omok/input.txt" />
+        <option value="$PROJECT_DIR$/ING/D3_11315_omok/test.py" />
+        <option value="$PROJECT_DIR$/ING/D3_11315_omok/solution2.py" />
+        <option value="$PROJECT_DIR$/D4_5432_iron_cutting/solution.py" />
+        <option value="$PROJECT_DIR$/D4_3143_typing/solution.py" />
         <option value="$PROJECT_DIR$/D4_1210_ladder1/solution.py" />
+        <option value="$PROJECT_DIR$/D3_11457_gravity/solution.py" />
+        <option value="$PROJECT_DIR$/D3_11387_monster_hunting/solution.py" />
+        <option value="$PROJECT_DIR$/D3_11315_omok/solution.py" />
+        <option value="$PROJECT_DIR$/D3_10200_subscribe/input.txt" />
+        <option value="$PROJECT_DIR$/D3_10200_subscribe/solution.py" />
+        <option value="$PROJECT_DIR$/D3_1216_palindrome2/solution.py" />
+        <option value="$PROJECT_DIR$/D3_6485_bus_route/solution.py" />
+        <option value="$PROJECT_DIR$/D3_5431_check_subject/solution.py" />
+        <option value="$PROJECT_DIR$/D3_4843_special_sort/solution.py" />
         <option value="$PROJECT_DIR$/D3_4837_subset/solution_bit.py" />
-        <option value="$PROJECT_DIR$/D2_1859_millionaire/solution.py" />
-        <option value="$PROJECT_DIR$/D3_1209_sum/solution_by_neo.py" />
-        <option value="$PROJECT_DIR$/D2_1926_game369/solution.py" />
-        <option value="$PROJECT_DIR$/D2_1926_game369/solution_count.py" />
-        <option value="$PROJECT_DIR$/D2_1954_snail/solution.py" />
-        <option value="$PROJECT_DIR$/D2_1959_numbers/solution.py" />
-        <option value="$PROJECT_DIR$/D2_1983_grades/solution.py" />
-        <option value="$PROJECT_DIR$/D2_2001_fly_killer/solution.py" />
-        <option value="$PROJECT_DIR$/D2_4836_color/solution.py" />
+        <option value="$PROJECT_DIR$/D3_1221_GNS/solution_counting_sort.py" />
+        <option value="$PROJECT_DIR$/D3_1221_GNS/solution_translate.py" />
+        <option value="$PROJECT_DIR$/5356_세로/solution.py" />
+        <option value="$PROJECT_DIR$/D3_5356_colcol/cell.py" />
+        <option value="$PROJECT_DIR$/D3_5356_colcol/solution.py" />
+        <option value="$PROJECT_DIR$/D3_5356_colcol/solution_if.py" />
+        <option value="$PROJECT_DIR$/D3_5356_colcol/solution_ljust.py" />
+        <option value="$PROJECT_DIR$/D3_1206_view/for-in.py" />
+        <option value="$PROJECT_DIR$/D3_1206_view/while_jump.py" />
+        <option value="$PROJECT_DIR$/D2_11454_Baby_gin_Game/for-in.py" />
+        <option value="$PROJECT_DIR$/D2_4865_str_count/solution.py" />
+        <option value="$PROJECT_DIR$/D2_4864_string/solution.py" />
         <option value="$PROJECT_DIR$/D2_4839_binary_search/solution.py" />
-        <option value="$PROJECT_DIR$/D4_1210_ladder1/test.py" />
+        <option value="$PROJECT_DIR$/D2_4836_color/solution.py" />
+        <option value="$PROJECT_DIR$/D2_1970_change/solution.py" />
+        <option value="$PROJECT_DIR$/D2_1926_game369/solution_count.py" />
+        <option value="$PROJECT_DIR$/D2_1926_game369/solution_replace.py" />
+        <option value="$PROJECT_DIR$/palindrome_algorithm.py" />
+        <option value="$PROJECT_DIR$/D4_5432_쇠막대기_자르기/neo.py" />
+        <option value="$PROJECT_DIR$/D4_5432_쇠막대기_자르기/solution_start-end.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="791" />
-    <option name="width" value="1138" />
+    <option name="x" value="1112" />
+    <option name="width" value="822" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -201,11 +261,6 @@
               <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="D4_1210_ladder1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -216,6 +271,13 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cell_\Desktop\SSAFY\github\TIL\02_Algorithm\SWEA\PP" />
+      <recent name="C:\Users\Cell_\Desktop\SSAFY\github\TIL\02_Algorithm\SWEA" />
+      <recent name="C:\Users\Cell_\Desktop\SSAFY\github\TIL\02_Algorithm\SWEA\ING" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,7 +291,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution (2)">
+  <component name="RunManager" selected="Python.palindrome_algorithm">
+    <configuration name="cell" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3_5356_colcol" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Cell_\Desktop\SSAFY\github\TIL\02_Algorithm\SWEA\D3_5356_colcol\solution_if.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrome_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Cell_\Desktop\SSAFY\github\TIL\02_Algorithm\SWEA\PP\palindrome_algorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,11 +342,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2_1959_numbers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2_4864_string" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2_1959_numbers/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2_4864_string/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,32 +363,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2_4839_binary_search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3_10200_subscribe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2_4839_binary_search/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2_1926_game369" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Cell_\Desktop\SSAFY\github\TIL\02_Algorithm\SWEA\D2_1926_game369\solution_replace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3_10200_subscribe/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,32 +384,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3_1209_sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3_5356_colcol" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3_1209_sum/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2_1926_game369" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2_1926_game369/solution_count.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Cell_\Desktop\SSAFY\github\TIL\02_Algorithm\SWEA\D3_5356_colcol\solution_ljust.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,19 +398,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.solution" />
-      <item itemvalue="Python.solution (3)" />
-      <item itemvalue="Python.solution_count" />
-      <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.solution (2)" />
+      <item itemvalue="Python.palindrome_algorithm" />
+      <item itemvalue="Python.cell" />
+      <item itemvalue="Python.solution" />
+      <item itemvalue="Python.solution (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.solution (2)" />
+        <item itemvalue="Python.palindrome_algorithm" />
         <item itemvalue="Python.solution (1)" />
-        <item itemvalue="Python.solution_count" />
-        <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution" />
+        <item itemvalue="Python.cell" />
+        <item itemvalue="Python.solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -366,23 +428,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="0" width="910" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="890" y="0" width="657" height="832" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2646048" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32903227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31088826" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39741752" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47707736" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998565" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32855093" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3581662" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -422,343 +483,343 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4831_electric_bus/solution.py" />
-    <entry file="file://$PROJECT_DIR$/D3_5789_change_box/solution.py">
+    <entry file="file://$PROJECT_DIR$/D4_1210_Ladder1/solution_key_R-L-U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_11457_Gravity/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_11387_몬스터사냥/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_11315_오목판정/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <marker date="1613701209302" expanded="true" signature="268:846" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_10200_구독자전쟁/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_10200_구독자전쟁/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_6485_삼성시의_버스_노선/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_5789_현주의_상자_바꾸기/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_5431_민석이의_과제_체크/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_4843_특별한_정렬/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1945_factorization/solution.py">
+    <entry file="file://$PROJECT_DIR$/D3_4837_부분집합의_합/solution_bit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3_4831_electric_bus/counting.py" />
-    <entry file="file://$PROJECT_DIR$/D3_4831_electric_bus/solution.py">
+    <entry file="file://$PROJECT_DIR$/D3_1216_회문2/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_4831_전기버스/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_3142_신비한_뿔의_숲/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_1221_GNS/solution_counting_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_1221_GNS/solution_translate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_1209_Sum/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_1209_Sum/solution_shorten.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_4835_prefix_sum/simple_solution.py">
+    <entry file="file://$PROJECT_DIR$/D3_5356_의석이의_세로로_말해요/solution_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_5356_의석이의_세로로_말해요/solution_ljust.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_1208_Flatten/solution_def.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_1208_Flatten/while_no_minmax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_1206_View/solution_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3_1206_View/solution_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_11454_Baby_gin_Game/solution_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_11454_Baby_gin_Game/solution_while.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_4865_글자수/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_4864_문자열_비교/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_4861_회문/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_4839_이진탐색/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_4836_색칠하기/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_4835_prefix_sum/solution.py">
+    <entry file="file://$PROJECT_DIR$/D2_4835_구간합/solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_4835_구간합/simple_solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
+        <state relative-caret-position="-228" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_4834_cards/solution.py">
-      <provider editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/D2_4834_숫자카드/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="24" lean-forward="true" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="190">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3_11387_hunting_monster/solution.py">
+    <entry file="file://$PROJECT_DIR$/D2_4828_min_max/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_1983_조교의_성적_매기기/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_2001_파리퇴치/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D1_2071_average/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1206_view/while_jump.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1221_GNS/output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="28164" lean-forward="true" selection-start-line="1" selection-start-column="28164" selection-end-line="1" selection-end-column="28164" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1221_GNS/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1208_flatten/solution_def.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1208_flatten/while_no_minmax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_3142_unicorns/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_6485_bus_route/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_10993_kingdom/solution.py" />
-    <entry file="file://$PROJECT_DIR$/D3_10200_subscribe/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_10200_subscribe/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1954_snail/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice_List01/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1209_sum/input.txt">
+    <entry file="file://$PROJECT_DIR$/D2_1979_어디에_단어가_들어갈_수_있을까/solution.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1954_snail/solution_str.py" />
-    <entry file="file://$PROJECT_DIR$/D2_4836_color/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_4839_binary_search/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_4843_special_sort/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_4837_subset/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice_List01/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1_2019_double/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1_2029_division/solution.py">
+    <entry file="file://$PROJECT_DIR$/D2_1970_쉬운_거스름돈/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1859_millionaire/timeout.py">
+    <entry file="file://$PROJECT_DIR$/D2_1959_두개의숫자열/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
+        <state relative-caret-position="-6" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1859_millionaire/solution.py">
+    <entry file="file://$PROJECT_DIR$/D2_1966_숫자를_정렬하자/solution_bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_1954_달팽이숫자/solution_def.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-        </state>
+        <state relative-caret-position="-171" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1209_sum/test.py">
+    <entry file="file://$PROJECT_DIR$/D2_1954_달팽이숫자/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-        </state>
+        <state relative-caret-position="-44" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3_4837_subset/solution_bit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1926_game369/solution_replace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1926_game369/solution_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1954_snail/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-291">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1959_numbers/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1966_sort_nums/bubble_sort.py">
+    <entry file="file://$PROJECT_DIR$/D2_1926_간단한_369게임/solution_count.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1979_word_puzzle/solution.py">
+    <entry file="file://$PROJECT_DIR$/D2_1945_간단한_소인수분해/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_1926_간단한_369게임/solution_replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_1983_grades/solution.py">
+    <entry file="file://$PROJECT_DIR$/D1_2071_평균값_구하기/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="247">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_2001_fly_killer/solution.py">
+    <entry file="file://$PROJECT_DIR$/D2_1859_백만장자프로젝트/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="114">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_4828_min_max/solution.py">
+    <entry file="file://$PROJECT_DIR$/Manacher_algorithm/palindrome_algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_4836_color/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2_4839_binary_search/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="665">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
           <folding>
-            <marker date="1613457752806" expanded="true" signature="121:384" ph="..." />
+            <element signature="e#67#833#0" />
+            <element signature="e#1340#1350#0" expanded="true" />
+            <element signature="e#1432#1895#0" />
+            <element signature="e#1943#2063#0" />
+            <marker date="1613721880747" expanded="true" signature="62:67" ph="..." />
+            <marker date="1613721880747" expanded="true" signature="872:873" ph="..." />
+            <marker date="1613721880747" expanded="true" signature="872:877" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1209_sum/solution_shorten.py">
+    <entry file="file://$PROJECT_DIR$/D4_5432_쇠막대기_자르기/solution_start-end.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-286">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <marker date="1613448876152" expanded="true" signature="67:592" ph="..." />
+            <marker date="1613724401771" expanded="true" signature="64:741" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3_1209_sum/solution.py">
+    <entry file="file://$PROJECT_DIR$/D4_5432_쇠막대기_자르기/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3_4843_special_sort/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D4_1210_ladder1/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D4_1210_ladder1/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="228">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
