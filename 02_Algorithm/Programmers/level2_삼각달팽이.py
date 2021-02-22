@@ -1,3 +1,4 @@
+# KEY > 삼각형을 그리는 한 바퀴(↓ → ↖)를 규칙으로 생각
 def snail_num(n):
     snail = []
     for i in range(1, n+1):
@@ -34,6 +35,7 @@ def snail_num(n):
             result.append(num)
 
     return result
+
 
 print(snail_num(4))
 print(snail_num(5))

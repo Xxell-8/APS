@@ -1,5 +1,3 @@
-# 문제 출처: 프로그래머스(https://programmers.co.kr/learn/courses/30/lessons/64061)
-
 def claw_crane(board, moves):
     # 1. 뽑은 인형을 담을 바구니(list) catch 생성
     catch = []
