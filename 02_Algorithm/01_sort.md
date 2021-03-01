@@ -122,4 +122,61 @@
       return arr[k-1]
   ```
 
-  
+
+
+
+## 4. 퀵 정렬(Quick Sort)
+
+- 주어진 배열을 두 개로 분할하고, 각각을 정렬
+  - 합병정렬과 다른 점은,
+    - 합병정렬은 그냥 두 부분으로 나누는 반면, 퀵 정렬은 분할 시 기준 아이템을 중심으로 이보다 작은 것은 왼쪽, 큰 것은 오른쪽에 위치
+    - 정렬 이후, 합병 정렬은 합병이라는 후처리 작업이 필요하나 퀵 정렬은 불필요
+
+- 수행 과정
+  - arr = [{69, 10, 30, 2, 16, 8, 31, 22}]
+    - pivot = 2, L = 69, R = 22
+    - L이 오른쪽으로 이동하며 pivot보다 크거나 같은 원소를 찾고
+    - R은 왼쪽으로 이동하며  pivot보다 작은 원소를 찾는다
+    - L과 R이 만나 원소 69를 피봇과 교환하여 원소 2의 위치를 확정
+  - arr = [**2**, {10, 30, 69, 16, 8, 31, 22}]
+    - pivot = 16, L = 10, R = 22
+    - L이 찾은 30과 R이 찾은 8을 서로 교환
+    - arr = [**2**, {10, *8*, 69, 16, *30*, 31, 22}]
+      - L = 8, R = 30
+      - L과 R이 만나 원소 69를 피봇과 교환하여 원소16의 위치 확정
+        - 위치가 확정되면 해당 원소를 기준으로 집합 나누기
+  - arr = [**2**, {10, 8}, 16, {69, 30, 31, 22}]
+  - 남은 집합에 대해 같은 과정 반복
+
+- 시간 복잡도: O(nlogn)  ➕ 최악의 경우 O(n²)
+
+
+
+#### + 퀵 정렬 알고리즘
+
+```python
+def quick_sort(arr, start, end):
+    if begin < end:
+        p = partition(arr, start, end)
+        quick_sort(arr, start, p-1)
+        quick_sort(arr, p+1, end)
+        
+# Hoare partition
+def partition(a, start, end):
+    pivot = (start + end) // 2
+    l = start
+    r = end
+    
+    while l < r:
+        while (arr[l] < arr[pivot] and l < r):
+            l += 1
+        while (arr[r] >= arr[pivot] and l < r):
+            r -= 1
+        if l < r:
+            if l == pivot:
+                pivot = r
+            arr[l], arr[r] = arr[r], arr[l]
+    arr[pivot], arr[r] = arr[r], arr[pivot]
+    return r
+```
+
