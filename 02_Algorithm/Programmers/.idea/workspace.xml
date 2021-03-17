@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f31769c-9134-4bb1-be54-98e037a2eff6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ING/level2_가장 큰 정사각형 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ING/level3_여행경로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ING/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level2_올바른 괄호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level2_점프와 순간 이동.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level2_피보나치 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SWEA/D3_4615_재미있는 오셀로 게임/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_sort.md" beforeDir="false" afterPath="$PROJECT_DIR$/../01_sort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BAEKJOON/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level2_예상 대진표.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/ING/level2_가장 먼 노드.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SWEA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../etc/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,37 +17,37 @@
     <session id="318254989">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="36" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="36" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="308" />
+          <entry key="Python Console" value="341" />
           <entry key="dummy" value="29" />
-          <entry key="py" value="14342" />
+          <entry key="py" value="15311" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="14650" />
+          <entry key="Python" value="15652" />
         </counts>
       </usages-collector>
     </session>
@@ -103,12 +95,13 @@
         <option value="$PROJECT_DIR$/ING/level2_피보나치 수.py" />
         <option value="$PROJECT_DIR$/ING/level2_가장 큰 정사각형 찾기.py" />
         <option value="$PROJECT_DIR$/ING/level2_점프와 순간 이동.py" />
+        <option value="$PROJECT_DIR$/level2_예상 대진표.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="815" />
-    <option name="width" value="1110" />
+    <option name="x" value="561" />
+    <option name="width" value="1364" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -154,28 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.level2_점프와 순간 이동">
-    <configuration name="level1_실패율" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programmers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/level1_실패율.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.level2_예상 대진표">
     <configuration name="level2_가장 큰 정사각형 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programmers" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="level2_올바른 괄호" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="level2_예상 대진표" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programmers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +202,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/level2_올바른 괄호.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/level2_예상 대진표.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,20 +275,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.level1_실패율" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.level2_올바른 괄호" />
       <item itemvalue="Python.level3_여행경로" />
       <item itemvalue="Python.level2_가장 큰 정사각형 찾기" />
       <item itemvalue="Python.level2_점프와 순간 이동" />
+      <item itemvalue="Python.level2_예상 대진표" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.level2_예상 대진표" />
         <item itemvalue="Python.level2_점프와 순간 이동" />
         <item itemvalue="Python.level2_가장 큰 정사각형 찾기" />
         <item itemvalue="Python.level3_여행경로" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.level2_올바른 괄호" />
       </list>
     </recent_temporary>
   </component>
@@ -334,14 +305,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="652" y="0" width="888" height="832" extended-state="0" />
+    <frame x="449" y="0" width="1091" height="832" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25851938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32922202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28796563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22922637" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46561605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,7 +320,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295129" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3295129" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -515,27 +486,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ING/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="21" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ING/level3_여행경로.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ING/level2_가장 먼 노드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ING/test.py" />
+    <entry file="file://$PROJECT_DIR$/ING/level3_여행경로.py" />
+    <entry file="file://$PROJECT_DIR$/ING/level2_가장 먼 노드.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -554,17 +507,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ING/level2_가장 큰 정사각형 찾기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ING/level2_가장 큰 정사각형 찾기.py" />
     <entry file="file://$PROJECT_DIR$/level2_점프와 순간 이동.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level2_예상 대진표.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="48" />
         </state>
       </provider>
     </entry>

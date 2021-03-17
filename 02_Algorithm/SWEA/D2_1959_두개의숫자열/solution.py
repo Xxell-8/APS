@@ -2,9 +2,8 @@ import sys
 sys.stdin = open('input.txt')
 
 T = int(input())
-
-# 1. 주어진 숫자를 받아오고
 for tc in range(1, T+1):
+    # 1. 주어진 숫자를 받아오고
     n, m = map(int, input().split())
     a = list(map(int, input().split()))
     b = list(map(int, input().split()))

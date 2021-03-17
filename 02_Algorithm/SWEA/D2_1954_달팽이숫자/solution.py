@@ -12,7 +12,6 @@ n = 3일 때,
 '''
 
 T = int(input())
-
 for tc in range(1, T+1):
     n = int(input())
     # 1. n * n 배열 만들기

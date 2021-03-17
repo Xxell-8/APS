@@ -13,7 +13,7 @@ for tc in range(1, T+1):
     # 2-2. 학생 수(n)만큼 반복하며 총점 계산
     for _ in range(n):
         mid, fin, hw = map(int, input().split())
-        score = mid*0.35 + fin*0.45 + hw*0.2
+        score = (mid * 0.35) + (fin * 0.45) + (hw * 0.2)
         result.append(score)
 
     # 3-1. target 학생의 등수를 담을 rank 초기화

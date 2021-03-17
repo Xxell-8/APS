@@ -7,7 +7,7 @@ mars = ["ZRO", "ONE", "TWO", "THR", "FOR", "FIV", "SIX", "SVN", "EGT", "NIN"]
 
 for tc in range(1, T+1):
     # 2. 주어진 input을 받고
-    nope = input()
+    no_use = input()
     mars_num = input().split()
 
     # 3-1. 카운팅 정렬을 위한 count 초기화

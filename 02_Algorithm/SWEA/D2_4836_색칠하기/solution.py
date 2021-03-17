@@ -17,8 +17,7 @@ for tc in range(1, T+1):
             for j in range(c1, c2+1):
                 if board[i][j] == 0:
                     board[i][j] = color
-                # 2-2. 이미 색칠이 되어 있으면 보라색이 되니까
-                # 조건상, 같은 색의 영역은 겹치지 않음
+                # 2-2. 이미 색칠된 영역에 색칠하면 보라색(∵ 같은 색은 겹치지 않음)
                 else:
                     board[i][j] = 3
                     purple += 1

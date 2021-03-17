@@ -18,7 +18,7 @@ for tc in range(1, T + 1):
 
 
 # 재귀 / Memoization / DP
-def paper_recursion(n):
+def paper_recursive(n):
     if n == 1:
         return 1
     elif n == 2:

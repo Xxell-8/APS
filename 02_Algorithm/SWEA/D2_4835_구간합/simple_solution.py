@@ -3,7 +3,6 @@ sys.stdin = open('input.txt')
 
 ### solution.py에서 불필요한 작업 줄이기 ###
 T = int(input())
-
 for tc in range(1, T + 1):
     # 1. 주어진 숫자를 받아오고
     n, m = map(int, input().split())

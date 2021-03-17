@@ -21,9 +21,10 @@ def quick_sort(nums):
 
     return [*sorted_left, pivot, *sorted_right]
 
+
 T = int(input())
 for tc in range(1, T+1):
     n = int(input())
-    numbers = list(map(int, input().split()))
+    nums = list(map(int, input().split()))
 
-    print('#{} {}'.format(tc, quick_sort(numbers)))
+    print('#{} {}'.format(tc, quick_sort(nums)))
