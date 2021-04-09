@@ -125,6 +125,14 @@
 ## 4. etc.
 
 - **TIP** for `templates` 유지 보수
-  - navbar, card 등 코드가 길어질 수 있는 components는 따로 빼서 HTML 파일로 작성
-    - component 파일인 걸 쉽게 확인할 수 있도록 `_name.html`로 저장
-  - `{% include "_name.html" %}` 로 원하는 위치에 포함
+  
+  - Components 분리
+    
+    - navbar, card 등 코드가 길어질 수 있는 components는 따로 빼서 HTML 파일로 작성
+      - component 파일인 걸 쉽게 확인할 수 있도록 `_name.html`로 저장
+    - `{% include "_name.html" %}` 로 원하는 위치에 포함
+    
+    
+  
+  - template 공유
+    - `html` 형식이 비슷할 경우, if 태그를 통해 다른 부분만 분기하고 template을 공유할 수 있음
