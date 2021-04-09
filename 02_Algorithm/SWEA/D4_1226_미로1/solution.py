@@ -2,6 +2,7 @@ import sys
 sys.stdin = open('input.txt')
 
 
+# 2. 시작점 찾는 함수 생성
 def start():
     for i in range(16):
         for j in range(16):
@@ -9,6 +10,7 @@ def start():
                 return [(i, j)]
 
 
+# 3. 미로 탈출 함수 생성
 def escape(road):
     direction = [(1, 0), (-1, 0), (0, 1), (0, -1)]
     path = []
@@ -28,6 +30,7 @@ def escape(road):
 
 T = 10
 for _ in range(1, T + 1):
+    # 1. input 받기
     tc = int(input())
     maze = [list(map(int, list(input()))) for _ in range(16)]
     road = start()

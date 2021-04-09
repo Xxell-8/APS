@@ -180,3 +180,45 @@ def partition(a, start, end):
     return r
 ```
 
+
+
+## 5. 병합정렬(Merge Sort)
+
+- 리스트의 요소를 개별로 나눠서 순서대로 병합하는 방식
+
+```python
+def merge_sort(arr):
+    n = len(arr)
+    # base case
+    if n < 2:
+        return arr
+    
+    mid_idx = n // 2
+    left = arr[:mid_idx]
+    right = arr[mid_idx:]
+    sorted_left = merge_sort(left)
+    sorted_right = merge_sort(right)
+    
+    merged = []
+    l = r = 0
+    while l < len(sorted_left) and r < len(sorted_right):
+        if sorted_left[l] < sorted_right[r]:
+            merged_append(sorted_left[l])
+            l += 1
+        else:
+            merged_append(sorted_right[r])
+            r += 1
+            
+    merged += sorted_left[l:]
+    merged += sorted_right[r:]
+    
+    return merged
+
+    # while l < len(sorted_left):
+    #    merged_append(sorted_left[l])
+    #    l += 1
+    # while r < len(sorted_right):
+    #    merged_append(sorted_right[r])
+    #    r += 1
+```
+

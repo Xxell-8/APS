@@ -2,53 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a7e7d9b-7ae3-41c8-a704-8334ec800d44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/1260_DFS와 BFS/solution_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/level2_예상 대진표.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/D2_1979_어디에_단어가_들어갈_수_있을까/solution_idx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/D2_2005_파스칼의 삼각형/solution_idx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/D2_2005_파스칼의 삼각형/solution_stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/1260_DFS와 BFS/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/1260_DFS와 BFS/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/1260_DFS와 BFS/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_11454_Baby_gin_Game/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_11454_Baby_gin_Game/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_11454_Baby_gin_Game/solution_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_11454_Baby_gin_Game/solution_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1954_달팽이숫자/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_1954_달팽이숫자/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1959_두개의숫자열/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_1959_두개의숫자열/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1961_숫자배열회전/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_1961_숫자배열회전/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1966_숫자를_정렬하자/solution_bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_1966_숫자를_정렬하자/solution_bubble-sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1966_숫자를_정렬하자/solution_quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_1966_숫자를_정렬하자/solution_quick_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1970_쉬운_거스름돈/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_1970_쉬운_거스름돈/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1974_스도쿠검증/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_1974_스도쿠검증/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1979_어디에_단어가_들어갈_수_있을까/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_1983_조교의_성적_매기기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_1983_조교의_성적_매기기/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_2001_파리퇴치/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_2001_파리퇴치/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_2005_파스칼의 삼각형/neo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_2005_파스칼의 삼각형/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_4834_숫자카드/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4834_숫자카드/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_4835_구간합/simple_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4835_구간합/simple_solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_4836_색칠하기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4836_색칠하기/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_4861_회문/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4861_회문/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_4866_괄호 검사/solution_neo.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4866_괄호 검사/solution_shorten.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_4869_종이붙이기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4869_종이붙이기/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_4871_그래프 경로/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4871_그래프 경로/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D2_4873_반복문자 지우기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4873_반복문자 지우기/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_1208_Flatten/solution_def.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_1208_Flatten/solution_def.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_1209_Sum/solution_shorten.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_1209_Sum/solution_shorten.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_1221_GNS/solution_counting_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_1221_GNS/solution_counting_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_1221_GNS/solution_translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_1221_GNS/solution_translate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_1234_비밀번호/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_1234_비밀번호/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_1289_원재의_메모리_복구하기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_1289_원재의_메모리_복구하기/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_1860_진기의 최고급 붕어빵/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_1860_진기의 최고급 붕어빵/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_2805_농작물_수확하기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_2805_농작물_수확하기/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_3142_신비한_뿔의_숲/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_3142_신비한_뿔의_숲/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_3499_퍼펙트_셔플/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_3499_퍼펙트_셔플/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_4047_영준이의_카드_카운팅/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_4047_영준이의_카드_카운팅/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_4615_재미있는 오셀로 게임/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_4615_재미있는 오셀로 게임/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_4615_재미있는 오셀로 게임/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_4615_재미있는 오셀로 게임/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_5356_의석이의_세로로_말해요/solution_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_5356_의석이의_세로로_말해요/solution_if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/etc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_sort.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_sort.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/13460_구슬탈출/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/13460_구슬탈출/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/D2_4874_forth/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2_4874_forth/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/D3_5215_햄버거 다이어트/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/D3_5215_햄버거 다이어트/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D3_5215_햄버거 다이어트/solution_재귀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/D4_1219_길찾기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D4_1219_길찾기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/D4_1226_미로1/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D4_1226_미로1/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Django/etc_PJT_tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Django/etc_PJT_tips.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,58 +23,52 @@
     <session id="-685105134">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="107" />
-          <entry key="txt" value="19" />
+          <entry key="py" value="155" />
+          <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="107" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Python" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="214" />
-          <entry key="dummy" value="66" />
-          <entry key="py" value="17079" />
+          <entry key="dummy" value="81" />
+          <entry key="py" value="23718" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="76" />
-          <entry key="Python" value="17293" />
+          <entry key="PLAIN_TEXT" value="91" />
+          <entry key="Python" value="23932" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/1260_DFS와 BFS/solution_recursive.py">
+        <entry file="file://$PROJECT_DIR$/SWEA/D3_5215_햄버거 다이어트/solution_재귀.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리/solution_simple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -131,18 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/D2_1959_두개의숫자열/solution.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1961_숫자배열회전/solution.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1966_숫자를_정렬하자/solution_bubble_sort.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1966_숫자를_정렬하자/solution_counting-sort.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1966_숫자를_정렬하자/solution_selction-sort.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1966_숫자를_정렬하자/solution_quick_sort.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1970_쉬운_거스름돈/solution.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1974_스도쿠검증/solution.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1979_어디에_단어가_들어갈_수_있을까/solution.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1979_어디에_단어가_들어갈_수_있을까/solution_split.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_1983_조교의_성적_매기기/solution.py" />
-        <option value="$PROJECT_DIR$/SWEA/D2_2001_파리퇴치/solution.py" />
         <option value="$PROJECT_DIR$/SWEA/D2_2005_파스칼의 삼각형/solution.py" />
         <option value="$PROJECT_DIR$/SWEA/D2_2005_파스칼의 삼각형/neo.py" />
         <option value="$PROJECT_DIR$/SWEA/D2_4834_숫자카드/solution.py" />
@@ -182,12 +127,24 @@
         <option value="$PROJECT_DIR$/SWEA/D3_5356_의석이의_세로로_말해요/solution_if.py" />
         <option value="$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리/solution_simple.py" />
         <option value="$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D4_1231_중위순회/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D2_5174_subtree/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D2_5176_이진탐색/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D2_5177_이진힙/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D3_5178_노드의 합/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D5_1248_공통조상/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D4_1232_사칙연산/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D4_1232_사칙연산/solution_simple.py" />
+        <option value="$PROJECT_DIR$/SWEA/D4_1219_길찾기/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D2_4874_forth/solution.py" />
+        <option value="$PROJECT_DIR$/SWEA/D4_1226_미로1/solution.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/1074_Z/solution.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="522" />
-    <option name="width" value="1144" />
+    <option name="x" value="857" />
+    <option name="width" value="1068" />
     <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -209,30 +166,7 @@
             <path>
               <item name="02_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="02_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="02_Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-              <item name="1260_DFS와 BFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="02_Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="02_Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="D2_4871_그래프 경로" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="02_Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="D3_5105_미로의 거리" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,8 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution_simple">
-    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.solution">
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="02_Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,11 +203,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3_4615_재미있는 오셀로 게임" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D4_1232_사칙연산" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3_4615_재미있는 오셀로 게임/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D4_1232_사칙연산/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D5_1248_공통조상" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D5_1248_공통조상/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3_5178_노드의 합" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3_5178_노드의 합/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,53 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3_5105_미로의 거리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/1074_Z" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3_5105_미로의 거리/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution_bit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="02_Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3_5215_햄버거 다이어트" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3_5215_햄버거 다이어트/solution_bit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution_if" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="02_Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3_5356_의석이의_세로로_말해요" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3_5356_의석이의_세로로_말해요/solution_if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/1074_Z/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D4_1232_사칙연산" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리/solution_simple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D4_1232_사칙연산/solution_simple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,19 +301,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.solution (3)" />
-      <item itemvalue="Python.solution" />
-      <item itemvalue="Python.solution_bit" />
-      <item itemvalue="Python.solution_if" />
+      <item itemvalue="Python.solution (2)" />
+      <item itemvalue="Python.solution (5)" />
+      <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.solution_simple" />
+      <item itemvalue="Python.solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.solution_simple" />
-        <item itemvalue="Python.solution_if" />
-        <item itemvalue="Python.solution_bit" />
         <item itemvalue="Python.solution" />
-        <item itemvalue="Python.solution (3)" />
+        <item itemvalue="Python.solution_simple" />
+        <item itemvalue="Python.solution (1)" />
+        <item itemvalue="Python.solution (2)" />
+        <item itemvalue="Python.solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -397,22 +331,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="418" y="0" width="915" height="831" extended-state="0" />
+    <frame x="686" y="0" width="854" height="831" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28701594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44308445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.02586207" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37356323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08464849" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5093257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998565" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.6958393" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.5107604" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -451,203 +385,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/D2_4880_토너먼트 카드게임/solution_enumerate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D2_4880_토너먼트 카드게임/solution_index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D2_4881_배열 최소 합/solution_global.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D2_5097_회전/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4_1258_행렬 찾기/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4_1258_행렬 찾기/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/733212802/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="3743" column="8" selection-start-line="3743" selection-start-column="8" selection-end-line="3743" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4_4613_러시아 국기 같은 깃발/solution2.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/D4_4613_러시아 국기 같은 깃발/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4_4613_러시아 국기 같은 깃발/live2.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/D2_5102_노드의 거리/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4_4613_러시아 국기 같은 깃발/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4_4613_러시아 국기 같은 깃발/solution_중복순열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1206_View/solution_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="33" column="38" lean-forward="true" selection-start-line="3" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1208_Flatten/solution_def.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1208_Flatten/while_no_minmax.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1206_View/solution_for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="3" selection-end-line="27" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1209_Sum/solution_shorten.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1216_회문2/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1217_거듭제곱/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1221_GNS/solution_translate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1221_GNS/solution_counting_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1234_비밀번호/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="21" selection-start-line="3" selection-end-line="29" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1225_암호생성기/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1289_원재의_메모리_복구하기/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1860_진기의 최고급 붕어빵/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_1289_원재의_메모리_복구하기/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_2805_농작물_수확하기/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_3142_신비한_뿔의_숲/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_3499_퍼펙트_셔플/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_4047_영준이의_카드_카운팅/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/D3_4615_재미있는 오셀로 게임/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -698,13 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_5215_햄버거 다이어트/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -764,6 +494,193 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리/solution_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1231_중위순회/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D5_1248_공통조상/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D5_1248_공통조상/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D5_1248_공통조상/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1232_사칙연산/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1232_사칙연산/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_11315_오목판정/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_11457_Gravity/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1210_Ladder1/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1219_길찾기/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_6485_삼성시의_버스_노선/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D2_4874_forth/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D2_5174_subtree/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D2_5177_이진힙/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_3142_신비한_뿔의_숲/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D2_5176_이진탐색/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_10200_구독자전쟁/solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_5178_노드의 합/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_10965_제곱수 만들기/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_11387_몬스터사냥/solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1222_계산기1/solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1223_계산기2/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1224_계산기3/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1226_미로1/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1232_사칙연산/solution_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1231_중위순회/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4_1258_행렬 찾기/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/1074_Z/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/13460_구슬탈출/solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/1244_switch/solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/1260_DFS와 BFS/solution_recursive.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -771,10 +688,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3_6019_기차 사이의 파리/solution_simple.py">
+    <entry file="file://$PROJECT_DIR$/Programmers/level2_예상 대진표.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3_5215_햄버거 다이어트/solution_재귀.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
