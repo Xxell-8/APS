@@ -1,6 +1,5 @@
 import sys
-#sys.stdin = open('input.txt')
-input = sys.stdin.readline
+sys.stdin = open('input.txt')
 
 n = int(input())
 tree = [[] for _ in range(n+1)]
