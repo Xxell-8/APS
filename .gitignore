@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,python,pycharm,visualstudiocode,django
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,python,pycharm,visualstudiocode,django
 
+02_ALGORITHM/etc/
+
 ### Django ###
 *.log
 *.pot
