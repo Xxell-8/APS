@@ -15,4 +15,10 @@
   **[ 04_Python Library ]** Python Library 스터디 파일입니다.
   
   **[ 05_Django ]** Django 스터디 파일입니다.
+  
+  **[ 06_Git ]** Git 스터디 파일입니다.
+  
+  **[ 07_JavaScript ]** JavaScript 스터디 파일입니다.
+  
+  **[ 08_Vue.js ]** Vue.js 스터디 파일입니다.
 
