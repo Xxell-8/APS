@@ -22,6 +22,18 @@
 | includes        | 배열에 특정 값이 존재하는지 판별 후 참/거짓 반환     |                         |
 | indexOf         | 배열에 특정 값이 존재하는지 판별 후 해당 인덱스 반환 | 없을 경우 -1 반환       |
 | join            | 배열의 모든 요소를 구분자를 매개로 연결              | 구분자 생략 시 쉼표 `,` |
+| splice          | 배열에 요소를 추가・삭제・교체                       |                         |
+
+```js
+// splice(특정 지점 idx, 삭제할 갯수[, 추가할 요소])
+const months = ['Jan', 'Mar', 'Apr', 'Jun']
+
+months.splice(1, 0, 'Feb')
+console.log(months) // ['Jan', 'Feb', 'Mar', 'Apr', 'Jun']
+
+months.splice(4, 1, 'May')
+console.log(months) // ['Jan', 'Feb', 'Mar', 'Apr', 'May']
+```
 
 
 
@@ -38,8 +50,8 @@
 | filter  | 콜백 함수의 반환 값이 `true`인 요소들만 모아 새로운 배열 반환 |
 | reduce  | 콜백 함수의 반환 값들을 하나의 값(acc)에 누적 후 반환        |
 | find    | 콜백 함수의 반환 값이 `true`면 해당 요소를 반환              |
-| some    | 배열의 요소 중 하나라도 판별 함수를 통과하면 `true`를 반환   |
-| every   | 배열의 모든 요소가 판별 함수를 통과하면 `true`를 반환        |
+| some    | 배열의 요소 중 **하나**라도 판별 함수를 통과하면 `true`를 반환 |
+| every   | 배열의 **모든 요소**가 판별 함수를 통과하면 `true`를 반환    |
 
 - `array.forEach(callback(element[, index[, array]]))`
 
@@ -142,7 +154,7 @@
 ```javascript
 const animals = ['Cat', 'Dog', 'Lion', 'Tiger', 'Snake', 'Bird']
 
-// 1. for loop
+// 1. for loop (break문 사용 가능)
 for (let i = 0; i < animals.length; i++) {
     console.log(i, animals[i])
 }
@@ -152,7 +164,7 @@ for (animal of animals) {
     console.log(animal)
 }
 
-// 3. forEach
+// 3. forEach (break문 사용 불가능)
 animals.forEach((animal, index) => {
     console.log(index, animal)
 })
