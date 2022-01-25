@@ -108,9 +108,33 @@
 - 속성 (Attribute)
   - 속성은 태그의 부가적인 정보
     - 요소에 실제론 나타내고 싶지 않지만 추가적인 내용(이미지 파일의 경로, 크기 등)을 담고 싶을 때 사용
+    
     - 요소의 시작 태그에 위치해야 하며 **이름**과 **값**의 쌍
       - ex.  `<a href="https://www.mozilla.org/">Mozilla</a>`
-    - 태그와 상관없이 사용 가능한 속성들(HTML Global Attribute)도 존재
+      
+    - 태그와 상관없이 사용 가능한 속성들(HTML Global Attribute, 전역 속성)도 존재
+    
+      - `title`: 요소의 정보나 설명을 지정 👉 해당 요소에 마우스 오버 시, 툴팁 형식으로 노출
+    
+      - `style`: 요소에 적용할 스타일(CSS)을 지정
+    
+      - `class`: 요소를 지칭하는 중복 가능한 이름
+    
+      - `id`: 요소를 지칭하는 고유한 이름
+    
+      - `data-이름`: 요소에 데이터를 지정
+    
+        ```html
+        <div data-fruit-name="apple">사과</div>
+        <div data-fruit-name="banana">바나나</div>
+        ```
+    
+        ```js
+        const els = document.querySelectorAll('div')
+        els.forEach(el => {
+          console.log(el.dataset.fruitName)
+        })
+        ```
 
 
 
@@ -131,15 +155,15 @@
       - 검색 엔진은 HTML 코드를 읽는데, 시맨틱 태그를 통해 마크업을 하면 콘텐츠의 이해도가 향상
       - 시각장애인을 위한 스크린리더 등 다양한 보조기술 향상에도 도움이 되며, 사용자 경험을 더 좋게 할 수 있음
 - Semantic Tag
-  - header: 문서 전체나 섹션의 헤더(머릿말)
-  - nav: 내비게이션
-  - aside: 사이드에 위치한 공간, 메인 콘텐츠와 관련성이 적은 콘텐츠
-  - section: 문서의 일반적인 구분, 콘텐츠의 그룹을 표현
-  - article: 문서, 페이지, 사이트 안에 독립적으로 구분
-  - footer: 문서 전체나 섹션의 푸터(마지막 부분)
+  - `header`: 문서 전체나 섹션의 헤더(머릿말)
+  - `nav`: 내비게이션
+  - `aside`: 사이드에 위치한 공간, 메인 콘텐츠와 관련성이 적은 콘텐츠
+  - `section`: 문서의 일반적인 구분, 콘텐츠의 그룹을 표현
+  - `article`: 문서, 페이지, 사이트 안에 독립적으로 구분
+  - `footer`: 문서 전체나 섹션의 푸터(마지막 부분)
 
 - Non-Semantic Tag
-  - div, span 등
+  - `div`, `span` 등
 
 
 
